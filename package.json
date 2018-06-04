@@ -3,11 +3,11 @@
   "description": "Angular Carousel - Mobile friendly touch carousel for AngularJS",
   "main": "dist/angular-carousel.js",
   "version": "1.1.0",
-  "homepage": "http://revolunet.github.com/angular-carousel",
-  "author": "Julien Bouquillon <julien@revolunet.com>",
+  "homepage": "http://bolser.github.com/angular-carousel",
+  "author": "Matthew Bradley <matthew@bolser.co.uk>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/revolunet/angular-carousel.git"
+    "url": "git://github.com/bolser/angular-carousel-bolser.git"
   },
   "engines": {
     "node": ">= 0.8"
